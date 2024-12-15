@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Car Driver",
+        "category": "Transportation",
+        "availability": 850,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Mounting",
+        "category": "Home Improvement",
+        "availability": 1534,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Cleaning",
+        "category": "Housekeeping",
+        "availability": 402,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Electrical Help",
+        "category": "Repairs",
+        "availability": 242,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Gardening",
+        "category": "Outdoor Services",
+        "availability": 600,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Plumbing",
+        "category": "Repairs",
+        "availability": 300,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Dog Walking",
+        "category": "Pet Services",
+        "availability": 420,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Painting",
+        "category": "Home Improvement",
+        "availability": 210,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Furniture Assembly",
+        "category": "Home Improvement",
+        "availability": 480,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Grocery Delivery",
+        "category": "Transportation",
+        "availability": 550,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Window Washing",
+        "category": "Housekeeping",
+        "availability": 275,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Babysitting",
+        "category": "Childcare",
+        "availability": 190,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "IT Support",
+        "category": "Technology Services",
+        "availability": 125,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Cooking",
+        "category": "Catering",
+        "availability": 380,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Tutoring",
+        "category": "Education",
+        "availability": 340,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Lawn Mowing",
+        "category": "Outdoor Services",
+        "availability": 265,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Car Washing",
+        "category": "Transportation",
+        "availability": 330,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Event Planning",
+        "category": "Catering",
+        "availability": 150,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Trash Removal",
+        "category": "Housekeeping",
+        "availability": 500,
+        "image": "assets/profile.png"
+    },
+    {
+        "title": "Security Services",
+        "category": "Miscellaneous",
+        "availability": 110,
+        "image": "assets/profile.png"
+    }
+]

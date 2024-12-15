@@ -1,0 +1,248 @@
+{
+    "ratings": {
+      "5stars": {
+        "count": 32,
+        "reviews": [
+          {
+            "name": "Elizabeth Bailey",
+            "date": "02/04/2022",
+            "rating": 5,
+            "review": "Ut exercitation occaecat minim eu qui ipsum. Ad occaecat."
+          },
+          {
+            "name": "Anna Fernandez",
+            "date": "19/03/2021",
+            "rating": 5,
+            "review": "Ut exercitation occaecat minim eu qui ipsum."
+          },
+          {
+            "name": "Matthew Brown",
+            "date": "22/12/2020",
+            "rating": 5,
+            "review": "Dolore aute aliqua quis non do incididunt. Sunt cupidatat laboris commodo do occaecat irure id exercitation. Veniam culpa irure veniam."
+          },
+          {
+            "name": "Ashley Gonzalez",
+            "date": "08/05/2020",
+            "rating": 5,
+            "review": "Dolore aute aliqua quis non do incididunt. Sunt cupid sawqs."
+          },
+          {
+            "name": "Jennifer Edwards",
+            "date": "22/10/2020",
+            "rating": 5,
+            "review": "Dolore aute aliqua quis non do incididunt. Sunt cupidatat laboris commodo do occaecat irure iddd aas."
+          },
+          {
+            "name": "Chris Walker",
+            "date": "15/06/2022",
+            "rating": 5,
+            "review": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+          },
+          {
+            "name": "Samantha Lee",
+            "date": "04/08/2021",
+            "rating": 5,
+            "review": "Excepteur sint occaecat cupidatat non proident."
+          },
+          {
+            "name": "David Johnson",
+            "date": "29/09/2020",
+            "rating": 5,
+            "review": "Cillum dolore eu fugiat nulla pariatur."
+          },
+          {
+            "name": "Linda Martinez",
+            "date": "11/07/2022",
+            "rating": 5,
+            "review": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          },
+          {
+            "name": "Robert Taylor",
+            "date": "20/12/2020",
+            "rating": 5,
+            "review": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+          }
+        ]
+      },
+      "4stars": {
+        "count": 8,
+        "reviews": [
+          {
+            "name": "Nancy Green",
+            "date": "12/01/2022",
+            "rating": 4,
+            "review": "Good app but some features need improvement."
+          },
+          {
+            "name": "James Scott",
+            "date": "08/11/2021",
+            "rating": 4,
+            "review": "Works well, but could use better user interface."
+          },
+          {
+            "name": "Sara Hall",
+            "date": "23/02/2021",
+            "rating": 4,
+            "review": "Decent experience overall, but notifications are buggy."
+          },
+          {
+            "name": "Tom Wilson",
+            "date": "14/04/2020",
+            "rating": 4,
+            "review": "Nice app, but I had trouble with account setup."
+          },
+          {
+            "name": "Jessica White",
+            "date": "05/05/2021",
+            "rating": 4,
+            "review": "Helpful, but missing some key features."
+          },
+          {
+            "name": "Michael Brown",
+            "date": "22/07/2022",
+            "rating": 4,
+            "review": "Solid app, but performance can be slow sometimes."
+          },
+          {
+            "name": "Emma Clark",
+            "date": "30/08/2021",
+            "rating": 4,
+            "review": "Great for beginners, but lacks advanced tools."
+          },
+          {
+            "name": "Olivia Lewis",
+            "date": "17/10/2020",
+            "rating": 4,
+            "review": "Almost perfect, but needs better integration with other platforms."
+          }
+        ]
+      },
+      "3stars": {
+        "count": 1,
+        "reviews": [
+          {
+            "name": "Brian Adams",
+            "date": "01/03/2021",
+            "rating": 3,
+            "review": "App is okay, but crashes frequently."
+          },
+          {
+            "name": "Laura Thomas",
+            "date": "27/05/2020",
+            "rating": 3,
+            "review": "Could be better. Some features don’t work as expected."
+          },
+          {
+            "name": "Kevin Harris",
+            "date": "10/09/2021",
+            "rating": 3,
+            "review": "Decent app, but very limited in functionality."
+          },
+          {
+            "name": "Megan Evans",
+            "date": "15/11/2020",
+            "rating": 3,
+            "review": "Not bad, but has too many ads."
+          },
+          {
+            "name": "Peter Moore",
+            "date": "19/02/2022",
+            "rating": 3,
+            "review": "Interface needs improvement; feels outdated."
+          },
+          {
+            "name": "Sophia Taylor",
+            "date": "30/06/2021",
+            "rating": 3,
+            "review": "Mediocre experience, would not recommend for professionals."
+          }
+        ]
+      },
+
+      "2stars": {
+        "count": 1,
+        "reviews": [
+          {
+            "name": "Brian Adams",
+            "date": "01/03/2021",
+            "rating": 3,
+            "review": "App is okay, but crashes frequently."
+          },
+          {
+            "name": "Laura Thomas",
+            "date": "27/05/2020",
+            "rating": 3,
+            "review": "Could be better. Some features don’t work as expected."
+          },
+          {
+            "name": "Kevin Harris",
+            "date": "10/09/2021",
+            "rating": 3,
+            "review": "Decent app, but very limited in functionality."
+          },
+          {
+            "name": "Megan Evans",
+            "date": "15/11/2020",
+            "rating": 3,
+            "review": "Not bad, but has too many ads."
+          },
+          {
+            "name": "Peter Moore",
+            "date": "19/02/2022",
+            "rating": 3,
+            "review": "Interface needs improvement; feels outdated."
+          },
+          {
+            "name": "Sophia Taylor",
+            "date": "30/06/2021",
+            "rating": 3,
+            "review": "Mediocre experience, would not recommend for professionals."
+          }
+        ]
+      },
+
+      "1stars": {
+        "count": 0,
+        "reviews": [
+          {
+            "name": "Brian Adams",
+            "date": "01/03/2021",
+            "rating": 3,
+            "review": "App is okay, but crashes frequently."
+          },
+          {
+            "name": "Laura Thomas",
+            "date": "27/05/2020",
+            "rating": 3,
+            "review": "Could be better. Some features don’t work as expected."
+          },
+          {
+            "name": "Kevin Harris",
+            "date": "10/09/2021",
+            "rating": 3,
+            "review": "Decent app, but very limited in functionality."
+          },
+          {
+            "name": "Megan Evans",
+            "date": "15/11/2020",
+            "rating": 3,
+            "review": "Not bad, but has too many ads."
+          },
+          {
+            "name": "Peter Moore",
+            "date": "19/02/2022",
+            "rating": 3,
+            "review": "Interface needs improvement; feels outdated."
+          },
+          {
+            "name": "Sophia Taylor",
+            "date": "30/06/2021",
+            "rating": 3,
+            "review": "Mediocre experience, would not recommend for professionals."
+          }
+        ]
+      }
+    }
+  }
+  

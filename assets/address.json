@@ -1,0 +1,98 @@
+[
+    {
+        "address": "848 King Street, Denver, CO 80204 Apt #1",
+        "city": "New York"
+    },
+    {
+        "address": "2345 Lake Street, Dallas, TX 75204 Apt #2",
+        "city": "Chicago"
+    },
+    {
+        "address": "1328 Madison Avenue, Cleveland, OH 44114 Apt #3",
+        "city": "Houston"
+    },
+    {
+        "address": "1777 West Street, Tampa, FL 33614 Apt #4",
+        "city": "New York"
+    },
+    {
+        "address": "462 South Street, Colorado Springs, CO 80903 Apt #5",
+        "city": "New York"
+    },
+    {
+        "address": "786 South Main Street, Oklahoma City, OK 73129 Apt #6",
+        "city": "Houston"
+    },
+    {
+        "address": "938 Elm Street, Portland, OR 97214 Apt #7",
+        "city": "Los Angeles"
+    },
+    {
+        "address": "345 Oak Avenue, Seattle, WA 98101 Apt #8",
+        "city": "Houston"
+    },
+    {
+        "address": "848 King Street, Denver, CO 80204 Apt #9",
+        "city": "Los Angeles"
+    },
+    {
+        "address": "2345 Lake Street, Dallas, TX 75204 Apt #10",
+        "city": "Los Angeles"
+    },
+    {
+        "address": "1328 Madison Avenue, Cleveland, OH 44114 Apt #11",
+        "city": "Los Angeles"
+    },
+    {
+        "address": "1777 West Street, Tampa, FL 33614 Apt #12",
+        "city": "New York"
+    },
+    {
+        "address": "462 South Street, Colorado Springs, CO 80903 Apt #13",
+        "city": "New York"
+    },
+    {
+        "address": "786 South Main Street, Oklahoma City, OK 73129 Apt #14",
+        "city": "New York"
+    },
+    {
+        "address": "938 Elm Street, Portland, OR 97214 Apt #15",
+        "city": "New York"
+    },
+    {
+        "address": "345 Oak Avenue, Seattle, WA 98101 Apt #16",
+        "city": "Houston"
+    },
+    {
+        "address": "848 King Street, Denver, CO 80204 Apt #17",
+        "city": "Chicago"
+    },
+    {
+        "address": "2345 Lake Street, Dallas, TX 75204 Apt #18",
+        "city": "New York"
+    },
+    {
+        "address": "1328 Madison Avenue, Cleveland, OH 44114 Apt #19",
+        "city": "Chicago"
+    },
+    {
+        "address": "1777 West Street, Tampa, FL 33614 Apt #20",
+        "city": "New York"
+    },
+    {
+        "address": "462 South Street, Colorado Springs, CO 80903 Apt #21",
+        "city": "Chicago"
+    },
+    {
+        "address": "786 South Main Street, Oklahoma City, OK 73129 Apt #22",
+        "city": "Los Angeles"
+    },
+    {
+        "address": "938 Elm Street, Portland, OR 97214 Apt #23",
+        "city": "Los Angeles"
+    },
+    {
+        "address": "345 Oak Avenue, Seattle, WA 98101 Apt #24",
+        "city": "Los Angeles"
+    }
+]
